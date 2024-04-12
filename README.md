@@ -27,8 +27,8 @@
 -->
 📫 How to reach me:
 - **Email:** yoonusarshaan@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **X (formely Twitter):** [Your Twitter Profile](https://twitter.com/yourhandle)
+- **LinkedIn:** [My LinkedIn profile](linkedin.com/in/yoonus-arshaan-3193a8292)
+- **X (formely Twitter):** [My Twitter Profile](https://x.com/yoonusarshaan?s=11)
 
 😄 **Pronouns:** He/Him
 
