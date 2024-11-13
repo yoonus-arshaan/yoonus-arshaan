@@ -1,39 +1,44 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yoonus Arshaan
+======================================================================================================================================
+
+Software Engineer & Web Developer
+---------------------------------
+
 **🚀 Welcome to my GitHub Space!** 🌟
 
-👋 Hey there! I'm Yoonus Arshaan, a *passionate* Computer Science student on a mission to explore the realms of technology and make a meaningful impact on the world. With a keen interest in learning, I'm constantly evolving and expanding my skill set to stay at the forefront of innovation.
+👋 Hey there! I'm a *passionate* Computer Science student on a mission to explore the realms of technology and make a meaningful impact on the world. With a keen interest in learning, I'm constantly evolving and expanding my skill set to stay at the forefront of innovation. 
 
-💻 As a budding data scientist, I thrive on turning raw data into actionable insights. Whether it's unraveling complex datasets or building predictive models, I love the thrill of solving real-world problems with *data-driven solutions*.
+💻 As a budding data scientist, I thrive on turning raw data into actionable insights. Whether it's unravelling complex datasets or building predictive models, I love the thrill of solving real-world problems with *data-driven solutions*. 
 
-🔍 With a curiosity for all things tech, I'm always on the lookout for the latest advancements and trends. From cutting-edge algorithms to emerging programming languages, I'm eager to dive in and explore what's next.
+🔍 With a curiosity for all things tech, I'm always on the lookout for the latest advancements and trends. From cutting-edge algorithms to emerging programming languages, I'm eager to dive in and explore what's next. 
 
-**📚 Alongside my academic pursuits,** I've honed my skills in various computer languages. Here are some of the languages I'm proficient in:
+😄**Pronouns:** He/Him 
 
-- **Python**
-- **Java**
-- **JavaScript**
-- **SQL**
-- **HTML/CSS**
-- **C++**
+⚡**Fun fact:** I'm a die-hard fan of Apple Inc. and everything they do! From their sleek designs to their innovative products, I'm constantly inspired by their commitment to pushing the boundaries of technology. You'll often find me eagerly awaiting their latest announcements. 
 
-<!--🔭 I’m currently working on [Project Name], where I'm [brief description of the project]. 
-
-🌱 I’m currently learning [Topic/Area], aiming to deepen my understanding and expand my skill set in [specific area].
-
-👯 I’m looking to collaborate on [Type of Projects], where I can contribute my expertise and learn from fellow collaborators.
-
-🤔 I’m looking for help with [Specific Area/Issue], seeking guidance and support from the community to overcome challenges.
-
-💬 Ask me about anything related to [specific topics or areas of expertise].
--->
-📫 How to reach me:
-- **Email:** yoonusarshaan@gmail.com
-- **LinkedIn:** [My LinkedIn profile](linkedin.com/in/yoonus-arshaan-3193a8292)
-- **X (formely Twitter):** [My Twitter Profile](https://x.com/yoonusarshaan?s=11)
-
-😄 **Pronouns:** He/Him
-
-⚡ **Fun fact:** I'm a die-hard fan of Apple Inc. and everything they do! From their sleek designs to their innovative products, I'm constantly inspired by their commitment to pushing the boundaries of technology. You'll often find me eagerly awaiting their latest announcements.
-
-🌍 Beyond the screen, I'm an avid traveler with a zest for experiencing new cultures and perspectives. I believe in leveraging technology to bridge gaps and create positive change on a global scale.
+🌍 Beyond the screen, I'm an avid traveler with a zest for experiencing new cultures and perspectives. I believe in leveraging technology to bridge gaps and create positive change on a global scale. 
 
 🤝 Let's connect and collaborate on exciting projects that push the boundaries of what's possible. Together, we can shape the future of technology and make a difference in the world!
+
+* 🌍  I'm based in Beruwala, Sri Lanka
+* ✉️  You can contact me at [yoonusarshaan@gmail.com](mailto:yoonusarshaan@gmail.com)
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/yoonus.arshaan?mibextid=LQQJ4d" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/yoonus-arshaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/yoonus_ash?igsh=czNiZHN1YWhjeWht&utm_source=qr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yoonus-arshaan-3193a8292" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/25369459/yoonus-arshaan?tab=profile" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/yoonusarshaan?s=11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yoonus-arshaan"><img src="https://github-readme-stats.vercel.app/api?username=yoonus-arshaan&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yoonus-arshaan's GitHub stats" /></a>
+
+<a href="https://github.com/yoonus-arshaan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonus-arshaan&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
